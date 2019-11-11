@@ -1,0 +1,227 @@
+[
+    [
+        "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1573476150711,
+            "changeTime": 1573476150711,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1573476150711,
+            "changeTime": 1573476150711,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1573476150717,
+            "changeTime": 1573476150717,
+            "contentHash": "4f5574797488d59de614728ef6a93a97750ac57b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default\\applications",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1573476150712,
+            "changeTime": 1573476150712,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1573476150712,
+            "changeTime": 1573476150712,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1573476150713,
+            "changeTime": 1573476150713,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default\\contentassets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1573476150713,
+            "changeTime": 1573476150713,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default\\flexipages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1573476150713,
+            "changeTime": 1573476150713,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1573476150714,
+            "changeTime": 1573476150714,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1573476150715,
+            "changeTime": 1573476150715,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1573476150715,
+            "changeTime": 1573476150715,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default\\staticresources",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1573476150716,
+            "changeTime": 1573476150716,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default\\tabs",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1573476150716,
+            "changeTime": 1573476150716,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default\\triggers",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\kharikiran\\Desktop\\geolocation\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1573476150717,
+            "changeTime": 1573476150717,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kharikiran\\Desktop\\geolocation",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\kharikiran\\Desktop\\geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1573476864728,
+            "changeTime": 1573476864728,
+            "contentHash": "c71e0d0353f61b4f15c3889a6c9176e373daa9ee",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
